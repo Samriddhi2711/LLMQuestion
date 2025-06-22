@@ -4,3 +4,4 @@ PyPDF2
 requests
 google-generativeai
 python-dotenv
+python-multipart
